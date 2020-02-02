@@ -16,7 +16,9 @@
 html {
   font-size: 100%;
 }
-
+head{
+	font: $NanumMyeongjo;
+}
 body {
 	background: $white;
   font: 18px/1.4 $NanumMyeongjo;
